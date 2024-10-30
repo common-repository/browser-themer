@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BrowserThemer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-19 19:27+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ארז <erezaton213@gmail.com>\n"
+"Language-Team: BrowserThemerTeam <erezaton213@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: Israel\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: browserthemer.php:91
+msgid "Default Blog Template"
+msgstr "תבנית ברירת מחדל"
+
+#: browserthemer.php:136
+msgid "BrowserThemer Settings"
+msgstr "הגדרות BrowserThemer"
+
+#: browserthemer.php:140
+msgid "IE6:"
+msgstr "IE6:"
+
+#: browserthemer.php:141
+msgid "IE7:"
+msgstr "IE7:"
+
+#: browserthemer.php:142
+msgid "IE8:"
+msgstr "IE8:"
+
+#: browserthemer.php:143
+msgid "FF2:"
+msgstr "FF2:"
+
+#: browserthemer.php:144
+msgid "FF3:"
+msgstr "FF3:"
+
+#: browserthemer.php:145
+msgid "Opera:"
+msgstr "Opera:"
+
+#: browserthemer.php:146
+msgid "Chrome:"
+msgstr "Chrome:"
+
+#: browserthemer.php:147
+msgid "Safari:"
+msgstr "Safari:"
+
+#: browserthemer.php:148
+msgid "Others:"
+msgstr "אחרים:"
+
+#: browserthemer.php:150
+msgid "Save Settings"
+msgstr "שמור שיניים"
+
+#: browserthemer.php:151
+msgid "Reset"
+msgstr "אפס"
+
